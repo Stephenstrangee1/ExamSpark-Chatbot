@@ -1922,7 +1922,7 @@ ${paperStructure}
 class ProfessorAcademyChatbot:
     def __init__(self):
         # Gemini API configuration
-        self.gemini_api_key = "AIzaSyAjdjYXpferSTiKGLsJazZ6XKPGBiPg7y4"
+        self.gemini_api_key = "??????????djYXpfe????????????????????" #copy paste google gemini api key in missing area.
         self.gemini_api_url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
         
         # Google Sheets configuration
@@ -2231,3 +2231,4 @@ def run_server():
 
 if __name__ == '__main__':
     run_server()
+
