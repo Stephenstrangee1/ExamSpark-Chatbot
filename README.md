@@ -3,6 +3,7 @@ AI Chatbot for UGC NET/CSIR Prep: Instant exam tips, syllabus breakdowns, and en
 # Professor Academy Chatbot
 
 Flask + Gemini AI chatbot for coaching queries.
+![Uploading image.png…]()
 
 ## Setup
 1. `pip install -r requirements.txt`
